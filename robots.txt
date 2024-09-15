@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncereliat.github.io/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/app/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/assets/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/css/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/includes/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/item/sitemap.html.gz
+Sitemap: https://ncereliat.github.io/src/sitemap.html.gz
